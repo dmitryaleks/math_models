@@ -10,6 +10,6 @@ Dirty implementation, pull requests with refactoring are welcomed:
 
 Note: requires pygame to run:
 ```
-pip install pygam
+pip install pygame
 python bicycle_model.py
 ```
