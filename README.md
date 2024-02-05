@@ -1,6 +1,6 @@
 # Math Models
 
-This ia playground for trivial models.
+This is a playground for trivial models.
 
 ## Bicycle
 
